@@ -1,0 +1,19 @@
+# Dolibarr language file - Source file is en_US - marque pages
+AddThisPageToBookmarks=Добави тази страница в любими
+Bookmark=Bookmark
+Bookmarks=Bookmarks
+NewBookmark=Нова отметка
+ShowBookmark=Покажи маркер
+OpenANewWindow=Отваряне на нов прозорец
+ReplaceWindow=Заменете текущия прозорец
+BookmarkTargetNewWindowShort=Нов прозорец
+BookmarkTargetReplaceWindowShort=Текущ прозорец
+BookmarkTitle=Bookmark заглавие
+UrlOrLink=URL
+BehaviourOnClick=Поведение, когато се кликне върху URL
+CreateBookmark=Създаване на маркер
+SetHereATitleForLink=Задайте име на отметката
+UseAnExternalHttpLinkOrRelativeDolibarrLink=Използване на външен URL HTTP или относителен URL Dolibarr
+ChooseIfANewWindowMustBeOpenedOnClickOnBookmark=Изберете, ако дадена страница, открита от връзката, трябва да се появи на настоящ или нов прозорец
+BookmarksManagement=Bookmarks управление
+ListOfBookmarks=Списък с маркери
